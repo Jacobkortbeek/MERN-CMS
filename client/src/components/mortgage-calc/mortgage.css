@@ -1,0 +1,8 @@
+.mortgage{
+  margin-top: 8em;
+  text-align: center;
+}
+
+/* yearsRepay: e.target.yearsRepay,
+interestRate: e.target.interestRate,
+deposit: e.target.deposit */

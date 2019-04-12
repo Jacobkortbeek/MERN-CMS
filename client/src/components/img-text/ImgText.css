@@ -1,0 +1,16 @@
+.ImgText{
+  margin-top: 8em;
+}
+.ImgText .ImgTextImg{
+  height: 20rem;
+  width: 20rem;
+  border-radius: 1000px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ImgText .ImgTextText{
+
+}
